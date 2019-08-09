@@ -5056,7 +5056,7 @@ a.thumbnail.active {
   border-top-color: #42c692;
 }
 .alert-success .alert-link {
-  color: #ffffff;
+  color: #e6e6e6;
 }
 .alert-info {
   background-color: #f3969a;
@@ -5067,7 +5067,7 @@ a.thumbnail.active {
   border-top-color: #f07f84;
 }
 .alert-info .alert-link {
-  color: #ffffff;
+  color: #e6e6e6;
 }
 .alert-warning {
   background-color: #ffce67;
@@ -5078,7 +5078,7 @@ a.thumbnail.active {
   border-top-color: #ffc64d;
 }
 .alert-warning .alert-link {
-  color: #ffffff;
+  color: #e6e6e6;
 }
 .alert-danger {
   background-color: #ff7851;
@@ -5089,7 +5089,7 @@ a.thumbnail.active {
   border-top-color: #ff6437;
 }
 .alert-danger .alert-link {
-  color: #ffffff;
+  color: #e6e6e6;
 }
 @-webkit-keyframes progress-bar-stripes {
   from {
@@ -6733,4 +6733,16 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}
+.alert-success .alert-link {
+  color: #ffffff;
+}
+.alert-info .alert-link {
+  color: #ffffff;
+}
+.alert-warning .alert-link {
+  color: #ffffff;
+}
+.alert-danger .alert-link {
+  color: #ffffff;
 }
